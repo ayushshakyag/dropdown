@@ -1,6 +1,7 @@
 import './App.css';
 import Dropdown from './dropdown';
 
+// Array of dropdown items
 const dropdownItems = ['Yes', 'No', 'Probably not'];
 
 function App() {
